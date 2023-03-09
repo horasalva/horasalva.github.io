@@ -1,0 +1,57 @@
+.contenedor {
+	width: 70%;
+    height: 400px;
+}
+
+.fila {
+ 	display: flex;
+    width: 100%;
+}
+
+.columna1 {
+	background: #164620;
+    width: 25%;
+    color: white;
+    font-size: small;
+}
+
+.columna2 {
+	border: white;
+    background: #fdf5e6;
+    width: 50%;
+}
+
+.titulo {
+	margin-left:40px;	
+	margin-top:90px;
+}
+
+#datosl {
+	font-family: 'Quicksand', sans-serif;	
+	margin-left:50px;	
+	margin-top:15px;
+}
+
+#datosr {
+	margin-left:100px;	
+	margin-top:15px;
+}
+
+#foto {
+	margin-top:35px;
+	text-align: center;
+}
+
+#link {
+	color: #FFFFFF;
+}
+
+h2 {
+	font-family: 'Noto+Sans', sans-serif;
+	text-align: center;
+}
+
+h3 {
+	font-family: 'Quicksand', sans-serif;	
+	text-align: center;
+}
